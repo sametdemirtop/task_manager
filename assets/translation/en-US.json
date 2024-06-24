@@ -1,0 +1,13 @@
+{
+  "appTitle": "Task Management",
+  "addTask": "Add Task",
+  "taskDetails": "Task Details",
+  "tasks": "Tasks",
+  "title": "Title",
+  "description": "Description",
+  "dueDate": "Due Date",
+  "imageUrl": "Image URL",
+  "goAddTask": "Go Add Task",
+  "deleteTask": "Delete Task",
+  "failedToLoadTasks": "Failed to load tasks"
+}

@@ -1,0 +1,13 @@
+{
+  "appTitle": "Görev Yönetimi",
+  "addTask": "Görev Ekle",
+  "taskDetails": "Görev Detayları",
+  "tasks": "Görevler",
+  "title": "Başlık",
+  "description": "Açıklama",
+  "dueDate": "Bitiş Tarihi",
+  "imageUrl": "Görsel URL",
+  "goAddTask": "Görev Ekle",
+  "deleteTask": "Görevi Sil",
+  "failedToLoadTasks": "Görevler yüklenemedi"
+}
