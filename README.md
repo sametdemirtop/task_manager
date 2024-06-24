@@ -17,7 +17,7 @@ I developed a Flutter application named "Task Manager App" to manage and track t
 ## Folder Structure Overview
 
 ```bash
-plantist_app/
+task_manager_app/
 ├── lib/
 │   ├── main.dart
 │   ├── feature/
